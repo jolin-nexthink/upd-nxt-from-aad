@@ -1,3 +1,12 @@
+#VSCode and other project stuff
+.vscode
+config.ey.py
+config.jolin.py
+*.json
+*.save
+*.csv
+*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
